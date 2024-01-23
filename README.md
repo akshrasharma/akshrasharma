@@ -54,8 +54,10 @@ _Feel free to check out my pinned repositories below for more examples of my wor
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/lalita-sharma-3ba39a180/
+<!-- 
 - Twitter: [@YourTwitter](https://twitter.com/yourprofile)
 - Blog: [Your Blog](https://yourblog.com)
+-->
 - Email: sharmalalita2666@gmail.com
 
 ## GitHub Stats
