@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I'm a seasoned DevOps Engineer with 2+ years of experience in automating, building, and optimizing complex CI/CD workflows. Passionate about cloud infrastructure, containerization, and infrastructure as code, I'm dedicated to fostering a culture of continuous improvement through collaboration and innovative tooling.
 
 ## Technical Skills
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 - **Cloud Platforms**: AWS, GCP, Huawei Cloud
 - **Containerization**: Docker, Kubernetes
 - **CI/CD**: Jenkins, Circle CI, Bitbucket pipeline, GitHub Actions, ArgoCD
