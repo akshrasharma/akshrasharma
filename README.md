@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a seasoned DevOps Engineer with 2+ years of experience in automating, building, and optimizing complex CI/CD workflows. Passionate about cloud infrastructure, containerization, and infrastructure as code, I'm dedicated to fostering a culture of continuous improvement through collaboration and innovative tooling.
+I'm a seasoned DevOps Engineer with 4+ years of experience in automating, building, and optimizing complex CI/CD workflows. Passionate about cloud infrastructure, containerization, and infrastructure as code, I'm dedicated to fostering a culture of continuous improvement through collaboration and innovative tooling.
 
 ## Technical Skills
 
